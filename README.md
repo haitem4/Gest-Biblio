@@ -44,5 +44,5 @@ L’objectif de Gest-Biblio est de **faciliter la gestion quotidienne** d'une bi
 
 ---
 
-## 📁 Structure du projet
+
 
