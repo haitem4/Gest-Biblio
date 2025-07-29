@@ -1,0 +1,13 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Fichiers de build
+bin/
+obj/
+
+# Autres
+*.log
+*.rar
+*.bak
